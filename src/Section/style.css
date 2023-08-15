@@ -1,0 +1,17 @@
+.container {
+    padding: 5px;
+}
+
+.container__item {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    padding: 10px;
+    margin: 2px;
+    background-color: white;
+}
+
+.container__item--list {
+    padding: 10px;
+    margin: 2px;
+    background-color: white;
+}
